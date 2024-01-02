@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi,I'm Maxim 👋
+At the moment I am an embedded engineer. Now I'm finishing my retraining as a Java developer.
+🛠Techical Stack
 
 <!--
 **msd921/msd921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
