@@ -1,5 +1,5 @@
 ### Hi,I'm Maxim 👋
-I graduated with a Bachelor's degree from the MEI 2023 Department of Industrial Electronics. At the moment I am an embedded engineer. Now I'm finishing my retraining as a Java developer.
+I graduated with a Bachelor's degree from the MPEI 2023 Department of Industrial Electronics. At the moment I am an embedded engineer. Now I'm finishing my retraining as a Java developer.
 
 ## 🛠 Technical Stack
 * С/С++, Java
@@ -10,7 +10,9 @@ I graduated with a Bachelor's degree from the MEI 2023 Department of Industrial 
 ### My projects
 * UniScheduleManager - a Spring Boot application that shows and sets the university schedule
 
-##
+## 📫 How to reach me:
+*  <p telegram ><a href="https://t.me/joinchat/msdmaks1"</a></p>
+*  <p mail ><a href="mailto:sir.msd@yandex.ru"</a>sir.msd@yandex.ru</p>
 <!--
 **msd921/msd921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
