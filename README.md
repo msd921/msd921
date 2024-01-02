@@ -11,7 +11,7 @@ I graduated with a Bachelor's degree from the MPEI 2023 Department of Industrial
 * UniScheduleManager - a Spring Boot application that shows and sets the university schedule
 
 ## 📫 How to reach me:
-*  <p telegram ><a href="https://t.me/joinchat/msdmaks1"</a>telegram</p>
+*  <p telegram ><a href="[https://t.me/joinchat/msdmaks1](https://t.me/msdmaks1)"</a>telegram</p>
 *  <p mail ><a href="mailto:sir.msd@yandex.ru"</a>sir.msd@yandex.ru</p>
 <!--
 **msd921/msd921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
