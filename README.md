@@ -1,10 +1,16 @@
 ### Hi,I'm Maxim 👋
-At the moment I am an embedded engineer. Now I'm finishing my retraining as a Java developer.
+I graduated with a Bachelor's degree from the MEI 2023 Department of Industrial Electronics. At the moment I am an embedded engineer. Now I'm finishing my retraining as a Java developer.
 
-##🛠Techical Stack
-*
-*
+## 🛠 Technical Stack
+* С/С++, Java
+* Spring Framework, Spring Boot, Spring Jdbctemplate
+* PostgreSQL, JUnit, Mockito, Tomcat, Maven
+* Git, GitHub, GitLab
 
+### My projects
+* UniScheduleManager - a Spring Boot application that shows and sets the university schedule
+
+##
 <!--
 **msd921/msd921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
