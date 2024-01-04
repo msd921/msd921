@@ -11,7 +11,7 @@ I graduated with a Bachelor's degree from the MPEI 2023 Department of Industrial
 * Version Control: Git, GitHub, GitLab
 
 ### My projects
-* UniScheduleManager (coming soon) - a Spring Boot application that shows and sets the university schedule
+* [UniScheduleManager](https://github.com/msd921/UniScheduleManager) - a Spring Boot application that shows and sets the university schedule
 
 ## 📫 How to reach me:
 Feel free to connect with me through:
