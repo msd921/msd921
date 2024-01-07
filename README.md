@@ -3,7 +3,7 @@ I graduated with a Bachelor's degree from the MPEI 2023 Department of Industrial
 
 ## 🛠 Technical Stack
 * Languages: C/C++, Java
-* Frameworks: Spring Framework, Spring Boot, Spring Jdbctemplate
+* Frameworks: Spring Framework, Spring Boot, Spring Jdbctemplate, Spring Data JPA
 * Databases: PostgreSQL
 * Testing: JUnit, Mockito
 * Servers: Tomcat
