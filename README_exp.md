@@ -1,5 +1,5 @@
 ### Hi,I'm Maxim 👋
-I graduated with a Bachelor's degree from the MPEI 2023 Department of Industrial Electronics. Currently, I work as an embedded engineer and I'm also in the process of retraining as a Java developer.
+I graduated with a Bachelor's degree from the MPEI 2023 Department of Industrial Electronics. Currently, I work as an embedded engineer.
 
 ## 🛠 Technical Stack
 * Languages: C/C++, Java
